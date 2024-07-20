@@ -10,7 +10,7 @@
 ✏️ Параллельно учусь в Школе 21 от Сбер и прохожу дополнительные курсы по математике и ML.  
 **Портфолио проектов: [тык](https://github.com/ayanalovespizza/study-projects)**
 
-**Стэк**: Python (Pandas, Numpy, SciPy, Math, Scikit-Learn, Matplotlib, Seaborn), PostgreSQL, Docker, Bash, Linux, Git, C/C++  
+**Стек**: Python (Pandas, Numpy, SciPy, Math, Scikit-Learn, Matplotlib, Seaborn), PostgreSQL, Docker, Bash, Linux, Git, C/C++  
 **IDE**: VS Code, Jupyter Notebook, PyCharm
 
 Telegram: @ayanalovespizza  
